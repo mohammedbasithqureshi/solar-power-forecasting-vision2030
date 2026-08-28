@@ -58,6 +58,13 @@ lag features playing only minor refinement roles.
 
 ![SHAP Summary](screenshots/shap_summary_solar.png)
 
+## Live App
+
+![App Input](screenshots/app_prediction_input.png)
+![App Result](screenshots/app_prediction_result.png)
+
+🔗 https://solar-power-forecasting-vision2030-iiqzkhpz6yiurvpzvjeb4m.streamlit.app/
+
 ## Real-World Impact — Vision 2030
 This forecasting approach can support:
 - **Grid balancing** — helping operators anticipate solar supply fluctuations
@@ -69,9 +76,6 @@ This forecasting approach can support:
 The live app includes an illustrative CO2-offset estimate, translating 
 predicted output into avoided emissions versus fossil-fuel grid power — 
 directly tying the model's predictions to Vision 2030's clean energy goals.
-
-## Live Demo
-🔗 https://solar-power-forecasting-vision2030-iiqzkhpz6yiurvpzvjeb4m.streamlit.app/
 
 ## How to Run Locally
 ```bash
